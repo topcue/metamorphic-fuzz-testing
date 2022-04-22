@@ -1,5 +1,6 @@
 #!/bin/bash
 
+## Set base workspace
 export BASE=$HOME/metamorphic-fuzz-testing
 
 ## Get clang-llvm (released version)
