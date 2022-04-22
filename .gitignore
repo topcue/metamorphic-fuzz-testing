@@ -1,1 +1,3 @@
 afl/*
+clang-llvm/*
+compiler-rt/*
