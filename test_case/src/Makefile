@@ -1,4 +1,4 @@
-CC     = ${HOME}/MFT/clang-llvm/bin/clang
+CC     = ${HOME}/metamorphic-fuzz-testing/clang-llvm/bin/clang
 # CFLAGS = -fsanitize=address # -g -Wall -O3  #! Consider -O3 option
 # TARGET = ${Target}    #! Consider Target Name
 OBJS   = main.o Metamorphic_Fuzz_Test.o KISA_SHA256.o

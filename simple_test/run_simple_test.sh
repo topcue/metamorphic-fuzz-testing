@@ -14,4 +14,3 @@ rm -rf in out; mkdir in out; echo z > in/z;
 $BASE/afl/afl-fuzz -i in -o out ./test_fuzzer
 
 # EOF
-

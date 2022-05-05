@@ -1,2 +1,2 @@
 #pragma once
-#define ADDRESS_SANITIZER
+#define METAMORPHIC_TESTING
